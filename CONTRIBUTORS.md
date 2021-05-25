@@ -55,6 +55,14 @@
 - [Isla Mukheef](https://github.com/IslaMukheef)
 - [Dodain](https://github.com/Dodain)
 - [Binit Ghimire](https://github.com/TheBinitGhimire)
+- [Knowledge-Wisdom-Understanding](https://github.com/Knowledge-Wisdom-Understanding)
+- [catmandx](https://github.com/catmandx)
+- [Kyle Nweeia](https://github.com/kyle-nweeia)
+- [Xib3rR4dAr](https://github.com/Xib3rR4dAr)
+- [Rohit Soni](https://github.com/StreetOfHackerR007/)
+- [Maxime Peim](https://github.com/maxime-peim)
+- [Christian Clauss](https://github.com/cclauss)
+- [Dipak Panchal](https://instagram.com/th3.d1p4k)
 
 Special thanks for all the people who had helped dirsearch so far!
 

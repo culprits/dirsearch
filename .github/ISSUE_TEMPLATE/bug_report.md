@@ -1,7 +1,7 @@
 ---
 name: Bug Report
-about: Report a Dirsearch problem
-
+about: Report a dirsearch problem
+labels: bug
 ---
 
 ### What is the current behavior?
@@ -17,4 +17,4 @@ What it should be instead?
 OS, python version, screenshots, dirsearch command, console output, ...?
 
 #### Checker:
- - [ ] I have read the documentation (README)
+ - [ ] I tested in the latest version of dirsearch
